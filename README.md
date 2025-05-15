@@ -22,8 +22,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
+### 📱 Mobile Development
+![Android](https://img.shields.io/badge/Android%20Development-3DDC84?logo=android&logoColor=white)
 
 ### ⚙️ Backend Development
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
@@ -34,6 +36,7 @@
 
 ### 📊 Data Visualization & Analytics
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=google-colab&logoColor=black)
 
@@ -59,6 +62,7 @@
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/vedant-kalbhor-2948b627a/)
 - 🌐 [Portfolio]()
-- 📫 [Email Me](vedantkalbhor2005@gmail.com)
+- 📫 [Email Me](mailto:vedantkalbhor2005@gmail.com)
 
 ---
+
