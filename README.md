@@ -58,10 +58,8 @@ I am a passionate and driven computer engineering student specializing in Machin
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Kalbhor&show_icons=true&theme=radical" width="45%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Kalbhor&layout=compact&theme=radical&langs_count=8" width="45%" alt="Top Languages" />
-</p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Kalbhor&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="45%" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Kalbhor&layout=compact&theme=radical&langs_count=8&hide_border=true&border_radius=10" width="45%" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.demolab.com?user=Vedant-Kalbhor&theme=radical&border_radius=10" width="60%" alt="GitHub Streak" /> </p>
 
 ---
 
