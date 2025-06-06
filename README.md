@@ -56,11 +56,11 @@ I am a passionate and driven computer engineering student specializing in Machin
   </tr>
 </table>
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant-Kalbhor&theme=radical" alt="GitHub Streak" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Kalbhor&layout=compact&theme=radical" alt="Top Languages" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Kalbhor&show_icons=true&theme=radical" width="45%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Kalbhor&layout=compact&theme=radical&langs_count=8" width="45%" alt="Top Languages" />
 </p>
 
 ---
