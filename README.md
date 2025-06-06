@@ -66,7 +66,8 @@ I am a passionate and driven computer engineering student specializing in Machin
 ---
 
 ## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vedant-kalbhor-2948b627a/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vedant-kalbhor-2948b627a/)
+- 🧑‍🎓[Portfolio](https://portfolio-omega-one-iejvfrxnzq.vercel.app/)
 - 📫 [Email Me](mailto:vedantkalbhor2005@gmail.com)  
 
 ---
