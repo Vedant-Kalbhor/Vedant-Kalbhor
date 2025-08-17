@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Vedant Kalbhor  
-**Deep Learning | Data Science | Machine Learning | AI Explorer**  
+**DevOps| AIML| Blockchain**  
 🎓 B.Tech Computer Engineering | VIIT Pune
 
 ---
