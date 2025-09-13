@@ -13,11 +13,10 @@ I am a passionate and driven computer engineering student specializing in Machin
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Kalbhor&show_icons=true&theme=radical" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant-Kalbhor&theme=radical" width="45%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Kalbhor&layout=compact&theme=radical" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant-Kalbhor&theme=radical" width="45%">
 </p>  
 
 ---
