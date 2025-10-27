@@ -21,6 +21,9 @@ I am a passionate and driven computer engineering student specializing in Machin
 
 ---
 
+[![An image of @vedantkalbhor's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vedantkalbhor)](https://holopin.io/@vedantkalbhor)
+
+---
 ## 🌐 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vedant-kalbhor-2948b627a/)  
 - 🧑‍🎓 [Portfolio](https://portfolio-omega-one-iejvfrxnzq.vercel.app/)  
