@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Vedant Kalbhor  
-**DevOps | AIML | Blockchain**  
+**AIML | MERN | DevOps | Blockchain**  
 🎓 B.Tech Computer Engineering | VIIT Pune  
 
 ---
