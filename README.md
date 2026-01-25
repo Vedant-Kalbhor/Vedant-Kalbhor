@@ -4,11 +4,6 @@
 
 ---
 
-## 🌟 About Me  
-I am a passionate and driven computer engineering student specializing in Machine Learning, Artificial Intelligence, and Database Systems. I focus on leveraging AI for sustainable and impactful solutions and continuously improve my problem-solving skills, especially in data structures and algorithms using Java. I am committed to lifelong learning and optimizing technology to create meaningful advancements.  
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -27,6 +22,6 @@ I am a passionate and driven computer engineering student specializing in Machin
 ## 🌐 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vedant-kalbhor-2948b627a/)  
 
-- 📫 [Email Me](mailto:vedantkalbhor2005@gmail.com)  
+- 📫 [Email Me](mailto:vedantkalbhor888@gmail.com)  
 
 ---
