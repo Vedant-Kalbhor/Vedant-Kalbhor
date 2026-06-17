@@ -1,5 +1,7 @@
 <h1 align="center">Vedant Kalbhor</h1>
-**AIML | MERN | DevOps | Blockchain**  
+
+**AIML | DevOps & Cloud | MERN | Blockchain**  
+
 🎓 B.Tech Computer Engineering | VIIT Pune  
 
 ---
