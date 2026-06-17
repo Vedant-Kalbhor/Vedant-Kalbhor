@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vedant Kalbhor  
+<h1 align="center">Vedant Kalbhor</h1>
 **AIML | MERN | DevOps | Blockchain**  
 🎓 B.Tech Computer Engineering | VIIT Pune  
 
@@ -22,6 +22,10 @@
 ## 🌐 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/vedant-kalbhor-2948b627a/)  
 
-- 📫 [Email Me](mailto:vedantkalbhor888@gmail.com)  
+- 📫 [Email Me](mailto:vedantkalbhor888@gmail.com)
+
+- ✍️ [Medium](https://medium.com/@vedantkalbhor2005)
+
+- 📊 [Kaggle](https://www.kaggle.com/vedantkalbhor)
 
 ---
